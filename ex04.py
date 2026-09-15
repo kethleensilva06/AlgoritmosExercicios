@@ -4,8 +4,8 @@
 while True:
     try:
         idade = int(input("Digite sua idade: "))
-        if idade < 0:
-            print("Idade nao pode ser negativa.")
+        if idade < 18:
+            print("Acesso negado, não pode ser menor de idade.")
             continue
         break
     except ValueError:
