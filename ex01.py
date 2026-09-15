@@ -1,6 +1,6 @@
 # Exercicio 01 - variaveis e f-strings
 
-nome = "Python"
+nome = "Kethleen"
 print(nome)
 
 # a multiplicacao acontece antes da soma, entao da 14 e nao 20
